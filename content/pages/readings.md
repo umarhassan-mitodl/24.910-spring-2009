@@ -3,8 +3,6 @@ content_type: page
 description: This section provides information on the readings assigned for each session
   of the course.
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -30,14 +28,14 @@ Introduction and preview
 {{< tdclose >}}{{< tdopen >}}
 Semantics 1: possible world semantics for attitudes
 {{< tdclose >}}{{< tdopen >}}
-von Fintel, Kai, and Irene Heim. Lecture Notes on Intensional Semantics. Chapters 1 and 2. ([PDF](http://mit.edu/fintel/fintel-heim-intensional.pdf))
+von Fintel, Kai, and Irene Heim. Lecture Notes on Intensional Semantics. Chapters 1 and 2. ({{% resource_link "34ce5dc5-c310-417e-bb2c-9ce7777b5c3f" "PDF" %}})
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
 Semantics 2: presupposition and sequence of tense
 {{< tdclose >}}{{< tdopen >}}
 
-von Fintel, Kai, and Irene Heim. Lecture Notes on Intensional Semantics. Chapters 1 and 2. ([PDF](http://mit.edu/fintel/fintel-heim-intensional.pdf))
+von Fintel, Kai, and Irene Heim. Lecture Notes on Intensional Semantics. Chapters 1 and 2. ({{% resource_link "34ce5dc5-c310-417e-bb2c-9ce7777b5c3f" "PDF" %}})
 
 Heim, Irene, and Angelika Kratzer. "Truth-Conditional Semantics and the Fregean Program," "Executing the Fregean Program," and "Semantics and Syntax." Chapters 1 to 3 in *Semantics in Generative Grammar*. Malden, MA: Blackwell Publishers, 1998, pp. 1-32. ISBN: 9780631197133.
 
@@ -127,7 +125,7 @@ Pragmatics 2: presupposition and embedding verbs (cont.)
 
 Stalnaker, Robert. "Pragmatic Presuppositions." In *Semantics and Philosophy*. Edited by Milton Munitz and Peter Under. New York, NY: New York University Press, 1974. ISBN: 9780814753668. Reprinted in *Context and Content: Essays on Intentionality in Speech and Thought*. New York, NY: Oxford University Press, 1999, pp. 47-62. ISBN: 9780198237075.
 
-Simons, Mandy. "[Observations on Embedding Verbs, Evidentiality, and Presupposition](http://dx.doi.org/10.1016/j.lingua.2006.05.006)." *Lingua* 117, no. 6 (June 2007): 1034-1056.
+Simons, Mandy. "{{% resource_link "db5bcb2c-e686-43a6-991d-bf4de217f5db" "Observations on Embedding Verbs, Evidentiality, and Presupposition" %}}." *Lingua* 117, no. 6 (June 2007): 1034-1056.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
